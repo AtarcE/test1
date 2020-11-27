@@ -1,0 +1,203 @@
+0	Hips	Ñü
+1	Spine	ÉÏ°ëÉí
+2	Left leg	×ó×ã
+3	Left knee	×ó¤Ò¤¶
+4	Left ankle	×ó×ãÊ×
+5	Left toe	×ó¤Ä¤ŞÏÈ
+6	Right leg	ÓÒ×ã
+7	Right knee	ÓÒ¤Ò¤¶
+8	Right ankle	ÓÒ×ãÊ×
+9	Right toe	ÓÒ¤Ä¤ŞÏÈ
+10	Chest	ÉÏ°ëÉí2
+11	Neck	Ê×
+12	Head	î^
+13	Biped_Bone05	×óÑÛ
+14	Biped_Bone06	ÓÒÑÛ
+15	Left shoulder	×ó¼ç
+16	Left arm	×óÍó
+17	Left elbow	×ó¤Ò¤¸
+18	Left wrist	×óÊÖÊ×
+19	Thumb0_L	×óÓHÖ¸1
+20	Thumb1_L	×óÓHÖ¸2
+21	IndexFinger1_L	×óÖĞÖ¸£±
+22	IndexFinger2_L	×óÖĞÖ¸£²
+23	Biped_Bone08	×óĞä1
+24	Biped_Bone09	×óĞä2
+25	Biped_Bone10	×óĞä3
+26	Biped_Bone01	×óĞä4
+27	Right shoulder	ÓÒ¼ç
+28	Right arm	ÓÒÍó
+29	Right elbow	ÓÒ¤Ò¤¸
+30	Right wrist	ÓÒÊÖÊ×
+31	Thumb0_R	ÓÒÓHÖ¸1
+32	Thumb1_R	ÓÒÓHÖ¸2
+33	IndexFinger1_R	ÓÒÖĞÖ¸£±
+34	IndexFinger2_R	ÓÒÖĞÖ¸£²
+35	Biped_Bone13	ÓÒĞä1
+36	Biped_Bone14	ÓÒĞä2
+37	Biped_Bone15	ÓÒĞä3
+38	Biped_Bone03	ÓÒĞä4
+39	Biped_Bone18	
+40	Biped_Bone19	
+41	Biped_Bone20	
+42	Biped_Bone21	
+43	Biped_Bone22	
+44	Biped_Bone24	
+45	Biped_Bone25	
+46	Biped_Bone27	
+47	Biped_Bone29	
+48	Biped_Bone142	
+49	Biped_Bone30	
+50	Biped_Bone139	
+51	Biped_Bone140	
+52	Biped_Bone31	
+53	Biped_Bone32	
+54	Biped_Bone33	
+55	Biped_Bone34	ºó°Ú1
+56	Biped_Bone35	ºó°Ú2
+57	Biped_Bone36	ºó°Ú3
+58	Biped_Bone38	Ç°°Ú1
+59	Biped_Bone39	Ç°°Ú2
+60	Biped_Bone40	Ç°°Ú3
+
+
+
+
+
+0	bip01_pelvis	ÏÂ°ëÉí	
+1	bip01_l_thigh		
+2	bip01_l_calf		
+3	bip01_l_foot		
+4	bip01_spine		
+5	bip01_r_thigh		
+6	bip01_r_calf		
+7	bip01_r_foot		
+8	bip01_spine1		
+9	bip01_neck		
+10	bip01_head		
+11	biped_bone26		
+12	biped_bone27		
+13	biped_bone28		
+14	biped_bone29		
+15	biped_bone30		
+16	biped_bone31		
+17	biped_bone32		
+18	biped_bone33		
+19	biped_bone34		
+20	biped_bone35		
+21	biped_bone36		
+22	biped_bone37		
+23	biped_bone38		
+24	biped_bone39		
+25	biped_bone40		
+26	biped_bone41		
+27	biped_bone42		
+28	biped_bone43		
+29	biped_bone44		
+30	biped_bone45		
+31	bip01_l_clavicle		
+32	bip01_l_upperarm		
+33	bip01_l_forearm		
+34	bip01_l_hand		
+35	bip01_l_finger0		
+36	bip01_l_finger01		
+37	bip01_l_finger1		
+38	bip01_l_finger11		
+39	bip01_l_finger2		
+40	bip01_l_finger21		
+41	biped_bone46		
+42	biped_bone47		
+43	biped_bone48		
+44	biped_bone49		
+45	bip01_r_clavicle		
+46	bip01_r_upperarm		
+47	bip01_r_forearm		
+48	bip01_r_hand		
+49	bip01_prop1		
+50	bip01_prop2		
+51	bip01_prop3		
+52	bip01_r_finger0		
+53	bip01_r_finger01		
+54	bip01_r_finger1		
+55	bip01_r_finger11		
+56	bip01_r_finger2		
+57	bip01_r_finger21		
+58	biped_bone50		
+59	biped_bone51		
+60	biped_bone52		
+61	biped_bone53		
+62	biped_bone54		
+63	biped_bone56		
+64	biped_bone57		
+65	biped_bone55		
+66	biped_bone58		
+67	biped_bone59		
+68	biped_bone60		
+69	biped_bone61		
+70	biped_bone62		
+71	biped_bone63		
+72	biped_bone64		
+73	biped_bone65		
+74	biped_bone66		
+75	biped_bone67		
+76	biped_bone68		
+77	biped_bone69		
+78	biped_bone70		
+79	biped_bone71		
+80	biped_bone72		
+81	biped_bone73		
+82	biped_bone74		
+83	biped_bone75		
+84	biped_bone76		
+85	biped_bone77		
+86	biped_bone01		
+87	biped_bone03		
+88	bip02		
+89	bip02_pelvis		
+90	bip02_spine		
+91	bip02_l_thigh		
+92	bip02_l_calf		
+93	bip02_l_foot		
+94	bip02_l_toe0		
+95	bip02_l_toe01		
+96	bip02_l_toe1		
+97	bip02_l_toe11		
+98	bip02_l_toe2		
+99	bip02_l_toe21		
+100	bip02_r_thigh		
+101	bip02_r_calf		
+102	bip02_r_foot		
+103	bip02_r_toe0		
+104	bip02_r_toe01		
+105	bip02_r_toe1		
+106	bip02_r_toe11		
+107	bip02_r_toe2		
+108	bip02_r_toe21		
+109	bip02_spine1		
+110	bip02_neck		
+111	bip02_neck1		
+112	bip02_head		
+113	biped_bone04		
+114	biped_bone05		
+115	biped_bone06		
+116	biped_bone07		
+117	biped_bone08		
+118	biped_bone09		
+119	biped_bone10		
+120	biped_bone11		
+121	biped_bone12		
+122	biped_bone13		
+123	biped_bone14		
+124	biped_bone15		
+125	biped_bone16		
+126	biped_bone17		
+127	biped_bone18		
+128	biped_bone19		
+129	biped_bone20		
+130	biped_bone21		
+131	biped_bone22		
+132	biped_bone23		
+133	biped_bone24		
+134	biped_bone25		
+135	biped_bone02		
+136	¥»¥ó¥¿©`		center

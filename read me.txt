@@ -1,0 +1,9 @@
+Model：萧容与
+Motion：旧型キャメロン
+Stage：万年寝不足/糖斯/战物语/怪獣対若大将P
+Camera：鬼瞳
+Effects：Rui/ikeno/角砂糖/RedialC/そぼろ/おたもん/TK/ビームマンP/呉石/化身バレッタ/針金P
+BGM：Turn Off The Light - 三浦大知
+Tools：MikuMikudance/SonyVegas/PmxEditor
+
+是一个渲染风格的尝试。
